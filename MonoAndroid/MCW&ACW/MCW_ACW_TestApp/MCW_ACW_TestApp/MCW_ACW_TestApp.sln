@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCW_ACW_TestApp", "MCW_ACW_TestApp\MCW_ACW_TestApp.csproj", "{B874B451-5B17-4D99-B7DB-C236344B716B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeLibBindings", "..\NativeLibBindings\NativeLibBindings.csproj", "{7AF96CA2-3EE4-4F79-AFFF-3074287135DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B874B451-5B17-4D99-B7DB-C236344B716B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B874B451-5B17-4D99-B7DB-C236344B716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B874B451-5B17-4D99-B7DB-C236344B716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B874B451-5B17-4D99-B7DB-C236344B716B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF96CA2-3EE4-4F79-AFFF-3074287135DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF96CA2-3EE4-4F79-AFFF-3074287135DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF96CA2-3EE4-4F79-AFFF-3074287135DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF96CA2-3EE4-4F79-AFFF-3074287135DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52DD38A-B889-43AB-B1BB-4E8C0A8D5D63}
+	EndGlobalSection
+EndGlobal
